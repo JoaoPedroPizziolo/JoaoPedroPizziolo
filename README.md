@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá! Me Chamo João Pedro Silva Pizziolo, sou programador front-end com conhecimento em database e back-end, formado em 2019 pelo Colégio Cotemig.
 
+Aqui estão algumas informações interessantes
+
+Link do meu LinkedIn: https://www.linkedin.com/in/joaopedropizziolo/
 <!--
 **JoaoPedroPizziolo/JoaoPedroPizziolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
